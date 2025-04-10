@@ -5,10 +5,10 @@ The vending machine allows users to select from four different products with pre
 ## Features  
 
 - Supports four products with prices:  
-  - Product 1: $10  
-  - Product 2: $15  
-  - Product 3: $17  
-  - Product 4: $20  
+  - Product 1: ₹10  
+  - Product 2: ₹15  
+  - Product 3: ₹17  
+  - Product 4: ₹20  
 - Coin insertion mechanism (1-15 units).  
 - Dispensing products based on available balance.  
 - Refunds any leftover balance after item purchase.  
